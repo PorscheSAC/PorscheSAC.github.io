@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'Porsche Next - ThinItalic';
 	src:
-		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-ThinItalic.woff2') format('woff2'),
-		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-ThinItalic.woff') format('woff'),
-		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-ThinItalic.ttf') format('truetype');
+		url('https://porschesac.github.io/PorscheNextWLa-ThinItalic.woff2') format('woff2'),
+		url('https://porschesac.github.io/PorscheNextWLa-ThinItalic.woff') format('woff'),
+		url('https://porschesac.github.io/PorscheNextWLa-ThinItalic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: italic;	
 }
