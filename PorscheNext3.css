@@ -1,0 +1,33 @@
+/* Porsche Next*/
+@font-face {
+	font-family: 'Porsche Next - Regular';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+	
+	
+	font-family: 'Porsche Next - Bold';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Bold.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Bold.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+
+	
+	
+	font-family: 'Porsche Next - BoldItalic';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master//PorscheNextWLa-BoldItalic.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-BoldItalic.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+
+	
+}
+

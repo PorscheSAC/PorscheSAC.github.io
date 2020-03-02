@@ -1,0 +1,11 @@
+/* Porsche Next*/
+@font-face {
+	font-family: 'Porsche Next - Regular';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+

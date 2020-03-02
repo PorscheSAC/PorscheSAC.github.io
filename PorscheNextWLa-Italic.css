@@ -1,0 +1,11 @@
+/* Porsche Next - Italic*/
+@font-face {
+	font-family: 'Porsche Next - Italic';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Italic.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Italic.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/PorscheNextWLa-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;	
+}
+

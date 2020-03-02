@@ -1,0 +1,11 @@
+/* SAP Icons*/
+@font-face {
+	font-family: 'SAP Icons';
+	src:
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/SAP-icons.woff2') format('woff2'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/SAP-icons.woff') format('woff'),
+		url('https://github.com/PorscheSAC/PorscheSAC/blob/master/SAP-icons.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;	
+}
+
