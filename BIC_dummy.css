@@ -1,0 +1,8 @@
+/* BIC Dummy Font*/
+@font-face {
+	font-family: 'BIC Dummy Font';
+	src:
+		url('https://porschesac.github.io/DummyFont.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;	
+}
